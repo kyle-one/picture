@@ -1,0 +1,3372 @@
+{
+  "Disabled"
+  "不可用"
+}
+{
+  "Increase font size"
+  "增大字体大小"
+}
+{
+  "Decrease font size"
+  "减小字体大小"
+}
+{
+  "Close"
+  "关闭"
+}
+{
+  "Hide"
+  "隐藏"
+}
+{
+  "Terminal Scroll Up"
+  "终端向上滚动"
+}
+{
+  "Terminal Scroll Down"
+  "终端向下滚动"
+}
+{
+  "Next Terminal Tab"
+  "下一个终端选项卡"
+}
+{
+  "Previous Terminal Tab"
+  "上一个终端选项卡"
+}
+{
+  "Delete"
+  "删除"
+}
+{
+  "Dark"
+  "黑暗"
+}
+{
+  "Black"
+  "黑色"
+}
+{
+  "Terminal Basic"
+  "终端基础"
+}
+{
+  "Normal"
+  "正常"
+}
+{
+  "Very fast"
+  "非常快"
+}
+{
+  "Fast"
+  "快"
+}
+{
+  "Slow"
+  "慢"
+}
+{
+  "Very slow"
+  "非常慢"
+}
+{
+  "Normal Sensitivity"
+  "正常灵敏度"
+}
+{
+  "Name"
+  "名字"
+}
+{
+  "Use Ctrl"
+  "使用Ctrl"
+}
+{
+  "Use Ctrl+Shift"
+  "使用Ctrl+Shift"
+}
+{
+  "Never"
+  "从未"
+}
+{
+  "Immediately"
+  "立即"
+}
+{
+  "Local"
+  "本地"
+}
+{
+  "Remote"
+  "远程"
+}
+{
+  "Dynamic"
+  "动态"
+}
+{
+  "Connect at least %1$d dot.\nTry again…"
+  "至少连接%1$d个点。\n再试一次…"
+}
+{
+  "Connect at least %1$d dots.\nTry again…"
+  "至少连接%1$d个点。\n再试一次…"
+}
+{
+  "If you already have registered account, you can login to get all Pro features."
+  "如果您已经注册帐户，您可以登录以获得所有的专业功能。"
+}
+{
+  "Save connection"
+  "保存连接"
+}
+{
+  "Search…"
+  "搜索…"
+}
+{
+  "Search"
+  "搜索"
+}
+{
+  "Accept Termius Terms of Service & Privacy Policy."
+  "接受Termius服务条款和隐私政策。"
+}
+{
+  "Buy one subscription and use Premium on all your devices."
+  "购买一个订阅并在所有设备上使用Premium。"
+}
+{
+  "Start a free 14 day trial and use Premium on all your devices."
+  "开始为期14天的免费试用，并在所有设备上使用Premium。"
+}
+{
+  "Account"
+  "帐户"
+}
+{
+  "Active"
+  "活动"
+}
+{
+  "Active Connection"
+  "活动连接"
+}
+{
+  "Active Connections"
+  "活动连接"
+}
+{
+  "Active connections"
+  "活动连接"
+}
+{
+  "Active Port Forwarding Rules"
+  "活动端口转发规则"
+}
+{
+  "Add Data to my Team Account"
+  "向我的团队帐户添加数据"
+}
+{
+  "+ Add Env Variable"
+  "+ 添加环境变量"
+}
+{
+  "Paste Key"
+  "粘贴密钥"
+}
+{
+  "Can not parse private key for generating public key (may be and private key does not match with passphrase). Please fix this problem or add public key. Key export will be canceled."
+  "无法分析生成公钥的私钥（可能是并且私钥与密码不匹配）。请解决此问题或添加公钥。密钥导出将被取消。"
+}
+{
+  "Only Team owner can share items"
+  "只有团队所有者可以共享项目"
+}
+{
+  "Alias"
+  "别名"
+}
+{
+  "All Hosts"
+  "所有主机"
+}
+{
+  "Allow"
+  "允许"
+}
+{
+  "Cancel"
+  "取消"
+}
+{
+  "Confirm"
+  "确认"
+}
+{
+  "Continue"
+  "继续"
+}
+{
+  "Retry"
+  "重试"
+}
+{
+  "Loading…"
+  "正在加载…"
+}
+{
+  "Connect at least 4 dots.\nTry again…"
+  "至少连接4个点。\n再试一次…"
+}
+{
+  "You've already been entitled for the subscription. You can login using your account."
+  "您已经有资格订阅。您可以使用您的帐户登录。"
+}
+{
+  "This name already exists"
+  "此名称已存在"
+}
+{
+  "You already have this subscription!"
+  "您已经有此订阅！"
+}
+{
+  "There’s already an account associated with this email address. Enter your password to log in."
+  "已经有一个帐户与此电子邮件地址关联。输入您的密码以登录。"
+}
+{
+  "Already have an account?"
+  "已经有账户了？"
+}
+{
+  "Amazon Credentials"
+  "亚马逊认证"
+}
+{
+  "Import EC2"
+  "导入EC2"
+}
+{
+  "Get the full suite of tools,\nwhenever and wherever you need it."
+  "获得全套工具，\n无论何时何地你需要它。"
+}
+{
+  "See the full list of features here."
+  "在这里查看完整的功能列表。"
+}
+{
+  "Do you enjoy this app?"
+  "你喜欢这个应用程序吗？"
+}
+{
+  "Do you like this app?"
+  "你喜欢这个应用吗？"
+}
+{
+  "Enjoying Termius?"
+  "喜欢 Termius?"
+}
+{
+  "Your five star review helps support ongoing development. Please rate Termius on each update, or send us feedback for any improvement. Thanks for your support!"
+  "您的五星评估有助于支持正在进行的开发。请在每次更新时给Termius评分，或向我们发送任何改进的反馈。感谢您的支持！"
+}
+{
+  "Yubico Authenticator functionality not available on device!"
+  "Yubico验证器功能在设备上不可用！"
+}
+{
+  "Attach AWS Account"
+  "附上AWS账户"
+}
+{
+  "Autocomplete in the Terminal"
+  "在终端中自动完成"
+}
+{
+  "Type a command for once and for all"
+  "一次性为所有标签键入命令"
+}
+{
+  "Speed up routine jobs and reduce silly mistakes. With Autocomplete in the Terminal, you don't have to repeat typing up the same commands over and over again."
+  "加快日常工作，减少愚蠢的错误。使用终端中的自动完成功能，您不必反复键入相同的命令。"
+}
+{
+  "No AWS S3 buckets available for that credentials"
+  "没有可用于该凭证的aws3存储桶"
+}
+{
+  "Forgetting you stored credentials allows you to use a different AWS account. Buckets associated with your current account will not longer appear."
+  "忘记您存储的凭证允许您使用不同的AWS帐户。与当前帐户关联的存储桶将不再显示。"
+}
+{
+  "Forget credentials?"
+  "忘记凭证吗？"
+}
+{
+  "%1$s AWS Hosts were imported and added to \"Hosts\""
+  "%1$s AWS主机已导入并添加到“主机”"
+}
+{
+  "1 AWS Host was imported and added to \"Hosts\""
+  "1个AWS主机已导入并添加到“主机”"
+}
+{
+  "The access key is invalid"
+  "访问密钥无效"
+}
+{
+  "The secret token is invalid"
+  "机密令牌无效"
+}
+{
+  "The specific bucket name is invalid"
+  "特定的bucket名称无效"
+}
+{
+  "Backward"
+  "上级目录"
+}
+{
+  "We believe that everyone should have free access to a beautiful and powerful SSH Client. Termius Basic is built to be fast, stable and reliable.\n\nWe believe in supporting our community of Admins, Engineers, Techs, Teachers and Students. Securely access remote servers or IoT devices and quickly fix issues from the comfort of your couch."
+  "我们相信每个人都应该可以免费访问一个漂亮而强大的SSH客户端。天狼星基本是建立在快速，稳定和可靠。\n我们相信支持我们的社区管理员，工程师，技术，教师和学生。安全访问远程服务器或物联网设备，在舒适的沙发上快速解决问题。"
+}
+{
+  "The best SSH client on Android, provided to the Community, Free and Ad-Free."
+  "免费向Android客户端提供SSH和免费广告。"
+}
+{
+  "Basic"
+  "基本"
+}
+{
+  "Enabled"
+  "启用"
+}
+{
+  "Sound"
+  "声音"
+}
+{
+  "Bell Settings"
+  "铃声设置"
+}
+{
+  "Vibration"
+  "振动"
+}
+{
+  "Address"
+  "地址"
+}
+{
+  "Buy one month subscription for "
+  "购买一个月的订阅"
+}
+{
+  "Buy one year subscription for "
+  "购买一年订阅"
+}
+{
+  "<b>%1$s</b><br/>PER MONTH"
+  "<b>%1$s</b><br/>每月"
+}
+{
+  "<b>%1$s</b><br/>PER YEAR"
+  "<b>%1$s</b><br/>每年"
+}
+{
+  "Install Update"
+  "安装更新"
+}
+{
+  "Buy\nnew one"
+  "购买\n新的"
+}
+{
+  "Go Premium"
+  "获取高级版"
+}
+{
+  "Customize keyboard button"
+  "自定义键盘按钮"
+}
+{
+  "Gestures button"
+  "手势按钮"
+}
+{
+  "Quick connect button"
+  "快速连接按钮"
+}
+{
+  "Menu button"
+  "菜单按钮"
+}
+{
+  "Adding another host will create a connection to “%s”"
+  "添加另一个主机将创建到“%s”的连接"
+}
+{
+  "SSH Jump Host"
+  "SSH跳转主机"
+}
+{
+  "Multi hop SSH tunnel"
+  "多跳SSH隧道"
+}
+{
+  "Host chaining"
+  "主机地址"
+}
+{
+  "Change email"
+  "更改电子邮件"
+}
+{
+  "Plese provide a new password"
+  "请提供新密码"
+}
+{
+  "Change password"
+  "修改密码"
+}
+{
+  "I’ve changed my mind, I want Premium"
+  "我改变主意了，我要高级版"
+}
+{
+  "I’ve changed my mind, I want Premium NOW"
+  "我改变主意了，我现在要高级版"
+}
+{
+  "Change title"
+  "修改标题"
+}
+{
+  "New Email"
+  "新电子邮件"
+}
+{
+  "You'll use this email for log in and account recovery."
+  "您将使用此电子邮件进行登录和帐户恢复。"
+}
+{
+  "Changelog"
+  "更新日志"
+}
+{
+  "<b>Termius 4.0.16</b> <br>- Fixed the issue with double echo in telnet <br>- Telnet sends \n instead of r for Return key <br>- Improved performance of SSH connections <b>Termius 4.0.10</b> <br>- Added PAM authentication support for Yubikey <br>- SSH and Telnet improvements <br>- Fixed minor issues with pattern/PIN lock <br><br><b>Termius 3.0.0</b> <br>- Full UI redesign similar to the Termius Desktop app; <br>- Added Amazon S3 support in SFTP; <br>- Added Port Knocking feature; <br>- Added Snippets execution on multiple hosts; <br>- Improved stability and performance of the terminal; <br><br><b>Termius 2.6.18</b> <br>- Added new features: <font color=#727272> <br>\t\t\t • Chaining Hosts (Jump Host) for SSH sessions <br>\t\t\t • Restore subscription feature <br>\t\t\t • Setting for disabling Autocomplete </font> <br><br>- Improved: <font color=#727272> <br>\t\t\t • Performance of terminal <br>\t\t\t • Stability </font> <br><br><b>Termius 2.6.16</b> <br>- Added chacha20-poly1305 stream cipher support. <br>- Added Environment Variables for SSH sessions. <br><br><b>Termius 2.6.10</b> <br>- Added new features: <font color=#727272> <br>\t\t\t • Ed25519 HostKey type support <br>\t\t\t • Ed25519 public key auth support <br>\t\t\t • Curve25519-sha256@libssh.org key exchange support </font> <br><br>- Improved: <font color=#727272> <br>\t\t\t • Terminal redrawing process <br>\t\t\t • Stability </font> <br><br><b>Termius 2.6.7</b> <br>- Added new features: <font color=#727272> <br>\t\t\t • Mosh support <br>\t\t\t • History synchronization <br>\t\t\t • Android Nougat app shortcuts </font> <br><br>- Improved: <font color=#727272> <br>\t\t\t • CJK symbols rendering in Terminal <br>\t\t\t • Stability </font> <br><br><b>Termius 2.6.5</b> <br>- Added new features: <font color=#727272> <br>\t\t\t • Two-Factor authentication for Termius account <br>\t\t\t • 'Delete sends Ctrl-H' for individual hosts <br>\t\t\t • HTTP/SOCKS proxy support for SSH sessions </font> <br><br>- Improved: <font color=#727272> <br>\t\t\t • Removed the font size setting from Hosts <br>\t\t\t • Landscape/portrait mode resizes the terminal </font> <br><br><b>Termius 2.5.5</b> <br>- Added new features: <font color=#727272> <br>\t\t\t • Autocomplete in the terminal <br>\t\t\t • Paste Password </font> <br><br>- Improved: <font color=#727272> <br>\t\t\t • Terminal Tab context menu <br>\t\t\t • Behavior while editing host tags </font> <br><br><b>Termius 2.5.0</b> <br>- Serverauditor -> Termius. <br>- Stability improvements. <br><br><b>Serverauditor 2.5.0</b> <br>- Telnet support <br>- Local bash support <br>- Stability improvements <br><br><b>Serverauditor 2.4.10</b> <br>- Added: <br>\t\t New Additional Keyboard in terminal behavior: <font color=#727272> <br>\t\t\t • Modern extended shortcuts Keyboard <br>\t\t\t • Shortcuts manager <br>\t\t\t • New way of enabling gesture feature in terminal </font> <br>\t\t No more “Edit” and “Preview” mode - introducing Fullscreen mode! <br>\t\t Implemented sorting feature <br><br>- Other: <font color=#727272> <br>\t\t\t • Updated “Contact Us” and “FAQ” <br>\t\t\t • Temporary removed sending default locale <br>\t\t\t • Fixed color of Back button in SearchView <br>\t\t\t • Improved stability of app, fixed small issues </font> <br><br><b>Serverauditor 2.4.1</b> <br>- Added: <font color=#727272> <br>\t\t\t • Support fingerprint scanner for data protection <br>\t\t\t • Support login via SmartLock <br>\t\t\t • Support Android Nougat multi-window <br>\t\t\t • Restore Subscription feature </font> <br><br>- Other: <font color=#727272> <br>\t\t\t • Improved PortForwarding error handling <br>\t\t\t • Improved Terminal rendering performance <br>\t\t\t • A lot of fixes </font> <br><br><b>Serverauditor 2.4.0</b> <br>- Added: <font color=#727272> <br>\t\t\t • AWS-EC2 integration <br>\t\t\t • DigitalOcean integration <br>\t\t\t • DNS-SD - discovering local hosts </font> <br><br>- Other: <font color=#727272> <br>\t\t\t • Improved the BELL vibration <br>\t\t\t • Improved rename dialog in SFTP </font> <br><br><b>Serverauditor 2.3.4</b> <br>- Added: <font color=#727272> <br>\t\t\t • ECDSA ssh-key support <br>\t\t\t • Default locale in a terminal session <br>\t\t\t • SSH-connection logging <br>\t\t\t • Session specific notifications <br>\t\t\t • Detailed history, timestamps, and connection connectionStatus <br>\t\t\t • .bash_history access through the Terminal Side Panel <br>\t\t\t • Terminal color modification through OSC commands </font> <br><br>- Other: <font color=#727272> <br>\t\t\t • Improved the connection sequence and tackled connectivity issues <br>\t\t\t • Smoothened terminal tab handling, interaction with sessions, and Quick Connect <br>\t\t\t • And many UI improvements </font> <br><br><b>Serverauditor 2.2.8 - beta</b> <br>- Fixed issues with connections to routers devices. <br>- Improved 'About Us' section in Settings. <br>- Improved Host Editor screen. <br>- Added sorting feature (by Name/by Date). <br>- Improved UI. <br>- Fixed crashes and UI issues. <br><br><b>Serverauditor 2.2.6 - beta</b> <br>- Updated Quick Connect widget UI. <br>- Added support of runtime permissions. <br>- Improved Generate Key screen UI. <br>- Added ability for opening Snippet in Terminal. <br>- Improved FAM UI. <br>- Improved performance of loading History. <br>- Added Material EditText errors. <br>- Fixed crashes and UI issues. <br><br><b>Serverauditor 2.2</b> <br>- Added Local Terminal support. <br>- Added ability to select multiple PF Rules for closing. <br>- Added Export SSH-key to Email. <br>- Added \"Application Arrows Keys\" properly supporting in the terminal. <br>- Fixed crashes and UI issues. <br><br><b>Serverauditor 2.1</b> <br>- Implemented Snippets. <br>- Fixed issue of changing color scheme to Terminal Basic. <br>- Fixed crashes. <br>- Added auto repeating of arrow keys in additional popup keyboard. <br>- Added button for opening software keyboard in terminal when additional keyboard is disabled. <br><br><b>Serverauditor 2.0</b> <br>- Implemented Material Design. <br>- Added URL detection in Terminal. <br>- Added \"Bell\" feature. <br>- Improved Copy/Paste mode in Terminal. <br>- Added “Delete” key into Additional Keyboard. <br>- Activity section replaced by Terminals and History sections. <br>- Updated Serverauditor home screen widget. <br>- Added the setting to choose additional keyboard color. <br><br><b>Serverauditor 1.7.12</b> <br>- Fixed copying folder via SFTP widget. <br>- Fixed Kerberos auth fail. <br><br><b>Serverauditor 1.7.9 - 1.7.11</b> <br>- Added 'Insert' key into additional keyboard. <br>- Added import SSH-keys from GDrive, Dropbox and etc. <br>- Added intent schemes for collaboration with Serverauditor. <br>- Added diffie-hellman-group-exchange-sha256 key exchange algorithm support. <br>- Improved logic of synchronization Keys&Identities. <br>- Added opportunity to swipe terminal tabs by volume keys. <br>- Many bug fixes. <br><br><b>Serverauditor 1.7.8</b> <br>- Export Ssh-Keys to SD-card. <br>- known_hosts file editor. <br>- Many bug fixes. <br><br><b>Serverauditor 1.7.0</b> <br>- Groups and tags to keep your hosts in order. <br>- Identity. <br>- Faster synchronization with support of the features above. <br>- 256 color support <br>- New Solarized Dark and Solarized Light color schemes <br>- Many bug fixes, in particular Pinch-To-Zoom gesture. <br><br> <b>Serverauditor 1.6.7</b> <br>- SSH key synchronisation has been made optional. <br>- Modern app icon. <br>- Help for port forwarding rules. <br>- Regular bug fixing. <br><br> <b>Serverauditor 1.6.5</b> <br>- Added ESC to volume keys bindings. <br>- New option for disabling Pinch To Zoom gesture. <br><br> <b>New Pro subscription feature</b> <br>- SFTP manager for fast work with remote and local filesystems with following options copy, remove, rename and permissions editing."
+  "<b>Termius 4.0.16</b><br>-修复了telnet中出现两次echo的问题<br>-telnet发送\n用r代替返回键<br>-改进了SSH连接的性能<b>Termius 4.0.10</b><br>-添加了对Yubikey的PAM身份验证支持<br>-SSH和Telnet的改进<br>-修复了模式/PIN锁的小问题<br><br><b>Termius 3.0.0</b><br>-类似于Termius桌面应用程序的完整UI重新设计；<br>在中添加了Amazon S3支持SFTP；<br>-增加了端口敲门功能；<br>增加了在多台主机上执行代码片段；<br>提高了终端的稳定性和性能；<br><br><b>Termius 2.6.18</b><br>添加了新功能：<font color=\\727272><br>•SSH会话的链接主机（跳转主机）<br>•恢复订阅功能<br>•禁用自动完成功能的设置</font><br><br>-改进：<font color=\\727272><br>•终端性能<br>•稳定性</font><br><br><b>Termius 2.6.16</b><br>添加了chacha20-poly1305流密码支持。<br>-为SSH会话添加了环境变量。<br><br><b>Termius 2.6.10</b><br>新增功能：<font color=\\727272><br>•Ed25519主机密钥类型支持<br>•Ed25519公钥验证支持<br>•Curve25519-sha256@libssh.org密钥交换支持<br><br><b>Termius 2.6.7</b><br>增加了新功能：<font color=\\727272><br>•Mosh支持<br>•历史同步<br>•Android Nougat应用程序快捷方式</font><br><br>改进：<font color=\\727272><br>•在终端中显示CJK符号<br>•稳定性</font><br><br><br><b>Termius 2.6.5</b><br>增加了新功能功能：<font color=<727272><br>•Termius帐户的双因素身份验证<br>•单个主机的“删除发送Ctrl-H”<br>•对SSH会话的HTTP/SOCKS代理支持</font><br><br>-改进：<font color=<727272><br>•删除主机上的字体大小设置<br>•横向/纵向模式调整终端</font><br><br><b>Termius 2.5.5</b><br>-新增功能：<font color=<727272><br>•在终端中自动完成<br>•粘贴密码</font><br><br>-改进：<font color=\\727272><br>•终端选项卡上下文菜单<br>•编辑主机标记时的行为</font><br><br><b>Termius 2.5.0</b><br>-Serverauditor->天狼星。<br>-稳定性改善。<br><br><b>Serverauditor 2.5.0</b><br>-Telnet支持<br>-本地bash支持<br>-稳定性改进<br><br><b>Serverauditor 2.4.10</b><br>-添加：<br>终端行为中的新附加键盘：<font color=\\727272><br>•现代扩展快捷键键盘<br>•快捷方式管理器<br>•启用手势的新方式终端的功能</font><br>不再有“编辑”和“预览”模式-引入全屏模式！<br>实现了排序功能<br><br>-其他：<font color=\\727272><br>•更新了“联系我们”和“常见问题解答”<br>•临时删除了发送默认区域设置<br>•修复了SearchView中后退按钮的颜色<br>•提高了应用程序的稳定性，修复了小问题</font><br><br><b>Serverauditor 2.4.1</b><br><br>添加：<fontcolor=\\727272><br>•支持指纹扫描仪进行数据保护<br>•支持通过SmartLock登录<br>•支持Android Nougat多窗口<br>•恢复订阅功能</font><br><br>其他：<font color=\\727272><br>•改进端口转发错误处理<br>•改进终端呈现性能<br>•许多修复</font><br><br><b>Serverauditor 2.4.0</b><br>添加：<font color=\\727272><br>•AWS-EC2集成<br>•DigitalOcean integration<br>•DNS-SD-发现本地主机</font><br><br>-其他：<font color=\\727272><br>•改进铃声振动<br>•改进重命名SFTP中的对话框</font><br><br><b>Serverauditor 2.3.4</b><br>-添加：<font color=\\727272><br>•ECDSA ssh密钥支持<br>•终端会话中的默认区域设置<br>•ssh连接日志记录<br>•会话特定通知<br>•详细历史记录、时间戳，和连接状态<br>•.bash历史访问通过终端侧面板<br>•通过OSC命令修改终端颜色<br>其他：<font color=\\727272><br>改进连接顺序并解决连接问题<br>•平滑的终端选项卡处理，与会话、快速连接的交互以及许多UI改进</font><br><br><b>Serverauditor 2.2.8-beta版</b><br>修复了与路由器设备的连接问题。<br>-改进了设置中的“关于我们”部分。<br>-改进的主机编辑器屏幕。<br>-添加了排序功能（按名称/按日期）。<br>-改进的用户界面。<br>-修复了崩溃和UI问题。<br><br><b>服务器Audito"
+}
+{
+  "Choose scheme"
+  "选择方案"
+}
+{
+  "Choose typeface"
+  "选择字体"
+}
+{
+  "Delete sends Ctrl-H"
+  "Delete (发送Ctrl-H)"
+}
+{
+  "Charset"
+  "编码"
+}
+{
+  "Choose email client"
+  "选择电子邮件客户端"
+}
+{
+  "Choose font size"
+  "选择字体大小"
+}
+{
+  "Choose host"
+  "选择主机"
+}
+{
+  "Type"
+  "类型"
+}
+{
+  "$9.99\nPer Month"
+  "9.99美元\n每月"
+}
+{
+  "Premium"
+  "高级版"
+}
+{
+  "$4.99\nPer Month"
+  "4.99美元\n每月"
+}
+{
+  "Host"
+  "主机"
+}
+{
+  "Clear selection"
+  "清除选择"
+}
+{
+  "Connect"
+  "连接"
+}
+{
+  "Copy"
+  "复制"
+}
+{
+  "Close sessions after running"
+  "运行后关闭会话"
+}
+{
+  "Close All"
+  "关闭全部"
+}
+{
+  "Close sessions"
+  "关闭会话"
+}
+{
+  "Exit and keep sessions active"
+  "退出并保持会话活动"
+}
+{
+  "Color Scheme"
+  "配色方案"
+}
+{
+  "Select scheme"
+  "选择配色方案"
+}
+{
+  "Connected"
+  "已连接"
+}
+{
+  "Connecting"
+  "连接中"
+}
+{
+  "Connecting to %s..."
+  "连接到 %s..."
+}
+{
+  "Connection failed"
+  "连接失败"
+}
+{
+  "Terminals"
+  "终端"
+}
+{
+  "I've Got a Question"
+  "我有个问题"
+}
+{
+  "Copied to clipboard"
+  "路径已复制剪贴板"
+}
+{
+  "Copy Path"
+  "复制路径"
+}
+{
+  "New Group"
+  "新建分组"
+}
+{
+  "New Identity"
+  "添加认证信息"
+}
+{
+  "New local"
+  "本地设备"
+}
+{
+  "New Rule"
+  "新建规则"
+}
+{
+  "Current"
+  "当前"
+}
+{
+  "Terminals: %1$d"
+  "终端: %1$d"
+}
+{
+  "Port Forwarding rules: %1$d"
+  "端口转发规则：%1$d"
+}
+{
+  "%1$d selected"
+  "已选择 %1$d 项"
+}
+{
+  "We understand, sometimes it’s nice to own \nyour software, and not have to manage \nanother subscription. We’re currently \ninvestigating offering a lifetime Termius \nlicense for a one-time-payment of $149."
+  "我们明白，有时候拥有是件好事\n你的软件，不用管理\n另一个订阅。我们现在\n调查供养一辈子的白蚁\n许可证一次性付款149美元。"
+}
+{
+  "Default"
+  "默认"
+}
+{
+  "Help to make the app better"
+  "帮助改进应用程序"
+}
+{
+  "Client side AES-256 encryption"
+  "客户端AES-256加密"
+}
+{
+  "Detach AWS Account"
+  "分离AWS帐户"
+}
+{
+  "Please wait while changing password will be finished"
+  "正在完成密码更改，请稍候"
+}
+{
+  "Changing password"
+  "更改密码"
+}
+{
+  "We can't correctly merge some of your data on our server. <br> <br> The problematic set is <b>%1$s</b>. <br> The problematic object is <b>%2$s</b>. <br> <br> We can automatically fix this issue with help a cleaning and downloading data from our server but this way can leak some of your unsent data. <br> <br> Would you like resolve merge conflict in automatic mode or manually?"
+  "我们无法正确合并服务器上的某些数据。<br><br>有问题的集合是<b>%1$s</b>。<br>有问题的对象是<b>%2$s</b>。<br><br>我们可以通过清理和从服务器下载数据来自动修复此问题，但这种方式可能会泄漏一些未发送的数据。<br><br>您想在自动模式还是手动模式下解决合并冲突？"
+}
+{
+  "Please provide an identity for connection"
+  "请提供连接认证信息"
+}
+{
+  "Attention! You already have this subscription. If you have a Termius account please login. If you forgot your password or username please register again. Note that all your data would be removed"
+  "注意！您已经有此订阅。如果你有一个Termis帐户，请登录。如果您忘记了密码或用户名，请重新注册。请注意，您的所有数据都将被删除"
+}
+{
+  "Choose identity"
+  "选择认证信息"
+}
+{
+  "Save identity"
+  "保存认证信息"
+}
+{
+  "Please choose saved identity or create new"
+  "请选择已保存的认证信息或新建一个"
+}
+{
+  "Request Identity"
+  "请求认证信息"
+}
+{
+  "Discovering local hosts"
+  "查找本地主机"
+}
+{
+  "DNS Service Discovery"
+  "DNS服务发现"
+}
+{
+  "Access a network's full potential easily"
+  "轻松访问网络的全部潜力"
+}
+{
+  "Browse a network for services easily with DNS Service Discovery. It is compatible with the standard DNS programming interfaces, servers, and packet formats."
+  "使用DNS服务发现轻松浏览网络中的服务。它与标准DNS编程接口、服务器和数据包格式兼容。"
+}
+{
+  "%1$s DigitalOcean Hosts were imported and added to \"Hosts\""
+  "%1$s DigitalOcean主机已导入并添加到“主机”"
+}
+{
+  "1 DigitalOcean Host was imported and added to \"Hosts\""
+  "1台DigitalOcean主机已导入并添加到“主机”"
+}
+{
+  "Duplicate"
+  "创建副本"
+}
+{
+  "Edit Host"
+  "修改主机"
+}
+{
+  "Edit local"
+  "修改本地"
+}
+{
+  "Edit Identity"
+  "编辑认证信息"
+}
+{
+  "E-mail verification"
+  "电子邮件验证"
+}
+{
+  "Your history log will begin after your first\n terminal session is finished."
+  "您的历史日志将在您的第一个终端会话结束后开始"
+}
+{
+  "Connect to a new host via ssh,\ntelnet or mosh. Once you've added\nhosts, you'll find them here."
+  "新建一个ssh,telnet,mosh\n添加完成后，可以通过主页进入"
+}
+{
+  "When you connect to a host for the\nfirst time, its public key appears here."
+  "当您第一次连接到主机时,它的公钥将出现在此处"
+}
+{
+  "Redirect communications requests\nwith port forwarding rules."
+  "根据端口转发规则重定向会话请求"
+}
+{
+  "Please add a host\n before creating a port forwarding rule."
+  "请在创建端口转发规则之前添加主机"
+}
+{
+  "Snippets are predefined port knocking or\nshell scripts. Add a snippet to conveniently\nrun any command at any time."
+  "代码片段是自定义的端口试探或shell脚本.\n添加一个代码片段,方便随时运行任何命令"
+}
+{
+  "You don't have any identities. You can\ncreate a new one."
+  "你没有任何认证信息。你可以\n创建一个新的。"
+}
+{
+  "Manage your usernames and access\nkeys by adding them to the keychain."
+  "通过将用户名和访问密钥添加到密钥链来管理它们"
+}
+{
+  "Tap the quick connect button in the bottom\n right to start a new terminal session."
+  "点击底部的快速连接按钮\n启动新终端会话的权限。"
+}
+{
+  "No Active Terminals"
+  "无活动终端"
+}
+{
+  "No active terminals"
+  "无活动终端"
+}
+{
+  "No active connections"
+  "无活动连接"
+}
+{
+  "No history items"
+  "没有历史项目"
+}
+{
+  "Unable to Add Rule"
+  "无法添加规则"
+}
+{
+  "Enable autocomplete on each connect"
+  "在每次连接时启用自动完成"
+}
+{
+  "Settings"
+  "设置"
+}
+{
+  "Send diagnostic data"
+  "发送诊断数据"
+}
+{
+  "Enter password:"
+  "输入密码："
+}
+{
+  "Environment Variables"
+  "环境变量"
+}
+{
+  "Pass environment variables into an ssh session"
+  "将环境变量传递到ssh会话中"
+}
+{
+  "Environment variables"
+  "环境变量"
+}
+{
+  "Incorrect old password"
+  "旧密码不正确"
+}
+{
+  "Incorrect pair of login-password"
+  "登录密码对不正确"
+}
+{
+  "There’s already an account associated with this email address. Proceed to log in with your password."
+  "已经有一个帐户与此电子邮件地址关联。继续使用您的密码登录。"
+}
+{
+  "Import and export configuration data"
+  "导入和导出配置数据"
+}
+{
+  "Can't create terminal session"
+  "无法创建终端会话"
+}
+{
+  "Knowledge base"
+  "知识库"
+}
+{
+  "Feature request (optional)"
+  "功能请求（可选）"
+}
+{
+  "We hope you continue to enjoy our free plan. \nIf you choose to reactivate Termius Premium \nin the future, all your premium-specific \nsettings and data will be restored."
+  "我们希望您继续享受我们的免费计划。\n如果您选择重新激活Termius Premium\n在未来，你所有的保费\n设置和数据将被恢复。"
+}
+{
+  "More secure than PIN and Lock-pattern protection"
+  "比PIN锁式保护更安全"
+}
+{
+  "Folder name"
+  "文件夹名字"
+}
+{
+  "Follow us on \nFacebook"
+  "关注我们 \nFacebook"
+}
+{
+  "Follow us on \nTwitter"
+  "关注我们\nTwitter"
+}
+{
+  "Select scheme & font size"
+  "选择方案 & 字体大小"
+}
+{
+  "Forgot password?"
+  "忘记密码了？"
+}
+{
+  "Generate Key"
+  "生成密钥"
+}
+{
+  "Introducing new terminal behaviour!"
+  "引入新的终端行为！"
+}
+{
+  "Add Snippets & SFTP"
+  "添加代码段和SFTP"
+}
+{
+  "Group"
+  "组"
+}
+{
+  "Port"
+  "端口"
+}
+{
+  "<font color=#F25E61>%d Days remaining</font> on your Premium trial"
+  "高级版试用期还剩%d天"
+}
+{
+  "<font color=#F25E61>1 Day remaining</font> on your Premium trial"
+  "<font color=#F25E61>离高级试用版还有一天</font>"
+}
+{
+  "%d Days remaining on your Premium trial"
+  "%高级版试用期还剩d天"
+}
+{
+  "Subscription expired.\nPremium features have been disabled"
+  "订阅已过期。\n高级功能已禁用"
+}
+{
+  "Trial expired.\nPremium features have been disabled"
+  "试用期已过。\n高级功能已禁用"
+}
+{
+  "Your GitHub Student Developer Pack has expired, Premium features have been disabled."
+  "你的GitHub学生开发包已过期，高级功能已被禁用。"
+}
+{
+  "Reactivate Premium"
+  "重新激活高级版"
+}
+{
+  "Learn More about Premium Features"
+  "了解有关高级功能的更多信息"
+}
+{
+  "Host to, hostname"
+  "目的主机，主机名"
+}
+{
+  "Port to, e.g. 80"
+  "目的端口，例如80"
+}
+{
+  "Identity"
+  "认证信息"
+}
+{
+  "Identity: %s"
+  "认证信息：%s"
+}
+{
+  "Port from, e.g. 22055"
+  "来源端口，例如22055"
+}
+{
+  "You can choose Manually enter above for inputting username and password by yourself"
+  "您可以在上面选择手动输入用户名和密码"
+}
+{
+  "Address, e.g. 127.0.0.1"
+  "地址，例如127.0.0.1"
+}
+{
+  "Port, e.g. 9001"
+  "端口，例如9001"
+}
+{
+  "Search OR type a command"
+  "搜索或输入命令"
+}
+{
+  "Tags"
+  "标签"
+}
+{
+  "History"
+  "历史记录"
+}
+{
+  "Home"
+  "内置储存"
+}
+{
+  "Hostname or IP Address"
+  "地址"
+}
+{
+  "Host from"
+  "来源主机"
+}
+{
+  "Connect to"
+  "连接到"
+}
+{
+  "Host (Required)"
+  "主机（必需）"
+}
+{
+  "Host to"
+  "目的主机"
+}
+{
+  "Hosts"
+  "主机列表"
+}
+{
+  "Hotkey: New Identity"
+  "热键：新认证信息"
+}
+{
+  "Hotkey: New Rule"
+  "Hotkey: 新建规则"
+}
+{
+  "Hotkey: Save"
+  "热键：保存"
+}
+{
+  "Hotkeys: Hide"
+  "热键：隐藏"
+}
+{
+  "Hide terminals"
+  "隐藏中终端"
+}
+{
+  "Terminal"
+  "终端"
+}
+{
+  "Continue without Account"
+  "没有帐户继续"
+}
+{
+  "I’LL SUBSCRIBE LATER"
+  "我稍后再订阅"
+}
+{
+  "Import instance information in a few taps"
+  "只需点击几下即可导入实例信息"
+}
+{
+  "AWS and Digital Ocean import"
+  "AWS与数字海洋导入"
+}
+{
+  "Select all Identities"
+  "选择所有认证信息"
+}
+{
+  "Identities"
+  "认证信息"
+}
+{
+  "Identity manager"
+  "认证信息管理器"
+}
+{
+  "No identities"
+  "没有认证信息"
+}
+{
+  "Import AWS"
+  "导入AWS"
+}
+{
+  "Import from AWS"
+  "从AWS导入"
+}
+{
+  "Import from DigitalOcean"
+  "从数字海洋导入"
+}
+{
+  "Import"
+  "导入"
+}
+{
+  "Sorry, import failed!"
+  "抱歉，导入失败！"
+}
+{
+  "Import via existing File Managers"
+  "通过现有文件管理器导入"
+}
+{
+  "Import hosts"
+  "导入主机"
+}
+{
+  "Import Key"
+  "导入密钥"
+}
+{
+  "Inactive Port Forwarding Rules"
+  "非活动端口转发规则"
+}
+{
+  "Incorrect password"
+  "密码错误"
+}
+{
+  "Keep credentials (also used for SFTP)"
+  "保留凭据（也用于SFTP）"
+}
+{
+  "Keep credentials (also used for EC2)"
+  "保留凭据（也用于EC2）"
+}
+{
+  "Key"
+  "私钥"
+}
+{
+  "Key generation has been failed.\n You can change parameters."
+  "密钥生成失败。\n您可以更改参数。"
+}
+{
+  "Key is not valid"
+  "密钥无效"
+}
+{
+  "No identities or keys"
+  "没有认证信息或私钥"
+}
+{
+  "Public key"
+  "公钥"
+}
+{
+  "Known hosts"
+  "已知主机"
+}
+{
+  "password:"
+  "密码："
+}
+{
+  "Recently added hosts"
+  "最近添加的主机"
+}
+{
+  "Learn More about Premium"
+  "了解有关高级功能的更多信息"
+}
+{
+  "Please provide the email of the person responsible for billing. We'll send an email with instructions to create a Termius team."
+  "请提供负责计费的人员的电子邮件。我们会给你发一封电子邮件，上面写着组建一支天狼队的指示。"
+}
+{
+  "Local Hosts"
+  "本地主机"
+}
+{
+  "Local Port (Required)"
+  "本地端口（必需）"
+}
+{
+  "Lock-pattern"
+  "锁定模式"
+}
+{
+  "More secure than PIN protection"
+  "比PIN保护更安全"
+}
+{
+  "Lock-pattern is a more secure alternative to the old-fashioned PIN authorization method."
+  "锁模式是一种比传统的PIN授权方法更安全的替代方法。"
+}
+{
+  "Sorry, you've tried to unlock 5 times with incorrect pattern. \nPlease try again later."
+  "抱歉，您尝试用错误的图案解锁5次。\n请稍后再试。"
+}
+{
+  "Available only for premium subscribers. \nPlease tap on this area for learn more…"
+  "仅适用于高级用户。\n请点击此区域了解更多信息…"
+}
+{
+  "Log out"
+  "注销登录"
+}
+{
+  "We’ve credited your account with 14 days\nof Premium, accessible from any device."
+  "我们已经在你的账户上存入了14天\n可从任何设备访问。"
+}
+{
+  "Send by email"
+  "通过电子邮件发送"
+}
+{
+  "Move to..."
+  "移动到组"
+}
+{
+  "My data"
+  "我的数据"
+}
+{
+  "My Manager/Team Lead's Email"
+  "我的经理/团队负责人的电子邮件"
+}
+{
+  "New Dir"
+  "新建目录"
+}
+{
+  "New group"
+  "新建分组"
+}
+{
+  "New host"
+  "新建连接"
+}
+{
+  "New password"
+  "新密码"
+}
+{
+  "No Known Hosts"
+  "没有已知主机"
+}
+{
+  "Synchronization has stopped"
+  "同步已停止"
+}
+{
+  "Not Verified"
+  "未经核实"
+}
+{
+  "Start connecting"
+  "开始连接中"
+}
+{
+  "Port forwarding was added"
+  "已添加端口转发"
+}
+{
+  "Sftp session connecting"
+  "Sftp会话连接中"
+}
+{
+  "Sftp session was disconnected"
+  "Sftp会话已断开"
+}
+{
+  "OK"
+  "确定"
+}
+{
+  "Old password"
+  "旧密码"
+}
+{
+  "Sorry, sftp connection failed. Please try again."
+  "抱歉，sftp连接失败。请再试一次。"
+}
+{
+  "Agent Forwarding is a\nPremium feature"
+  "代理转发是\n高级功能"
+}
+{
+  "Full Premium feature list"
+  "完整的高级功能列表"
+}
+{
+  "Import instance information\nwith a few taps."
+  "导入实例信息\n轻敲几下。"
+}
+{
+  "AWS & Digital Ocean Import\nis a Premium feature"
+  "AWS和数字海洋导入\n是一个高级功能"
+}
+{
+  "Pass Environment Variables into an SSH session."
+  "将环境变量传递到SSH会话中。"
+}
+{
+  "Environment Variables\nis a Premium feature"
+  "环境变量\n是一个高级功能"
+}
+{
+  "Enable Fingerprint Gestures to make navigating through the terminal feel more natural."
+  "启用指纹手势，使在终端中导航更自然。"
+}
+{
+  "Fingerprint Gestures is a\nPremium feature"
+  "指纹手势是\n高级功能"
+}
+{
+  "Fingerprint Unlock is a\nPremium feature"
+  "指纹解锁是一个\n高级功能"
+}
+{
+  "Hop between sessions with tabs, paste snippets or passwords with a tap and get command suggestions with autocomplete."
+  "使用选项卡在会话之间跳跃，轻触粘贴代码段或密码，使用自动完成功能获取命令建议。"
+}
+{
+  "Try Premium to unlock the\nfull set of terminal tools"
+  "尝试使用Premium解锁\n全套终端工具"
+}
+{
+  "Create a multi-hop SSH tunnel\nwith Host Chaining."
+  "创建多跳SSH隧道\n有主机链接。"
+}
+{
+  "Host chaining is a\nPremium feature"
+  "主机链接是\n高级功能"
+}
+{
+  "Pattern Lock is a\nPremium feature"
+  "模式锁是一个\n高级功能"
+}
+{
+  "Access SSH/SFTP via an\nHTTP or SOCKS5 proxy."
+  "通过HTTP/SOCKS5代理访问SSH/SFTP"
+}
+{
+  "Proxies are a Premium feature"
+  "代理是高级功能"
+}
+{
+  "Snippets is a Premium feature"
+  "代码片段是一个高级功能"
+}
+{
+  "Sync Hosts, Groups, Snippets and more across\nsigned in devices. End to end encrypted\n(AES-256) with zero-knowledge cloud storage."
+  "同步主机、组、片段等\n已登录设备。端到端加密\n（AES-256）零知识云存储。"
+}
+{
+  "Sync is a Premium feature"
+  "同步是高级功能"
+}
+{
+  "Looks like your subscription has expired. \nReactivate Premium and pick up right where \nyou left off - your settings and data will be \nrestored automatically."
+  "您的订阅似乎已过期。\n重新激活保费，然后在哪里取车\n你离开了-你的设置和数据将\n自动恢复。"
+}
+{
+  "Hop between sessions with tabs, start a \nnew session with quick connect and get \ncommand suggestions with autocomplete."
+  "使用标签在会话之间跳跃，启动\n使用快速连接和获取的新会话\n命令建议与自动完成。"
+}
+{
+  "Sign up to try the full set of powerful and\ntime-saving features. Unlock Autocomplete,\nTabs, SFTP, Desktop Sync, Snippets,\nFingerprint Unlock and more."
+  "注册以尝试全套强大和\n省时功能。解锁自动完成功能，\n标签，SFTP，桌面同步，代码片段，\n指纹解锁等等。"
+}
+{
+  "Sync keys & passwords"
+  "同步密钥和密码"
+}
+{
+  "Sync keys & passwords across signed in devices. End to end encrypted (AES-256) with zero-knowledge cloud storage."
+  "跨登录设备同步密钥和密码。具有零知识云存储的端到端加密（AES-256）。"
+}
+{
+  "Hosts, port forwarding, snippets and keys \ncan be synced across your desktop and \nmobile devices. Uses AES-256 encryption,\n2FA and zero knowledge cloud storage."
+  "主机、端口转发、代码段和密钥\n可以在桌面上同步\n移动设备。使用AES-256加密，\n2FA和零知识云存储。"
+}
+{
+  "We hope you’re enjoying Termius Premium. \nSubscribe to continue using the full Termius \nfeature set. One subscription covers all your \nDesktop, Android, and iOS devices."
+  "我们希望你能享受到天狼星的优惠。\n订阅继续使用完整的天狼星\n功能集。一份订阅涵盖您的所有\n桌面、Android和iOS设备。"
+}
+{
+  "Open File Failed!"
+  "打开文件失败！"
+}
+{
+  "Open-source libraries"
+  "开源库"
+}
+{
+  "Optional"
+  "可选"
+}
+{
+  "Optional defaults"
+  "可选默认"
+}
+{
+  "Premium features are unavailable"
+  "高级功能不可用"
+}
+{
+  "Password"
+  "密码"
+}
+{
+  "Password changing has been failed"
+  "密码更改失败"
+}
+{
+  "User data is encrypted by your master password. We are not able to restore your user data without your master password."
+  "用户数据由主密码加密。没有您的主密码，我们无法还原您的用户数据。"
+}
+{
+  "Show password"
+  "显示密码"
+}
+{
+  "Paste"
+  "粘贴"
+}
+{
+  "Paste a session's password into the terminal with a single touch"
+  "只需轻触一下，就可以将会话的密码粘贴到终端中"
+}
+{
+  "In some sessions `sudo` is password protected. With Password Paste you easily paste a session's password into the terminal reducing the amount of actions taken and improving your workflow."
+  "在某些会话中，“sudo”受密码保护。使用Password Paste，您可以轻松地将会话的密码粘贴到终端，从而减少所采取的操作量，并改进您的工作流。"
+}
+{
+  "SFTP client"
+  "SFTP 客户端"
+}
+{
+  "Instant access to remote files"
+  "即时访问远程文件"
+}
+{
+  "A classic double panel file manager to navigate through remote and local filesystems. You may delete, copy, move, rename, create files and folders, edit permissions, and so on. The file manager is integrated with the terminal, so you can copy and paste file paths easily, or transfer files directly between two remote servers with the help of a terminal command."
+  "一个经典的双面板文件管理器，用于在远程和本地文件系统中导航。您可以删除、复制、移动、重命名、创建文件和文件夹、编辑权限等。文件管理器与终端集成，因此您可以轻松地复制和粘贴文件路径，或者在终端命令的帮助下直接在两个远程服务器之间传输文件。"
+}
+{
+  "Port Forwarding Rules"
+  "端口转发规则"
+}
+{
+  "Port forwarding"
+  "端口转发"
+}
+{
+  "Port knocking snippet"
+  "端口试探片段"
+}
+{
+  "Hotkeys settings"
+  "热键设置"
+}
+{
+  "Host Chaining"
+  "主机链接"
+}
+{
+  "Import from AWS, DO*"
+  "从AWS导入，DO*"
+}
+{
+  "Import of .ssh/config"
+  "导入.ssh/config"
+}
+{
+  "Port Forwarding"
+  "端口转发"
+}
+{
+  "SFTP Client"
+  "SFTP 客户端"
+}
+{
+  "Snippets"
+  "代码片段"
+}
+{
+  "SSH Agent Forwarding"
+  "SSH代理转发"
+}
+{
+  "Premium gets you everything you need to work faster and better, for less than the price of 2 coffees a month."
+  "Premium为您提供一切您需要的更快更好的工作，比每月2杯咖啡的价格还便宜。"
+}
+{
+  "Per Month"
+  "每月"
+}
+{
+  "Per Year"
+  "每年"
+}
+{
+  "PREMIUM SUBSCRIPTION"
+  "高级版订阅"
+}
+{
+  "Premium trial"
+  "高级版试用"
+}
+{
+  "Private key"
+  "私钥"
+}
+{
+  "Loading info about team…"
+  "正在加载有关团队的信息…"
+}
+{
+  "Connecting…"
+  "连接中…"
+}
+{
+  "Importing keys. Please wait."
+  "正在导入密钥。请稍候。"
+}
+{
+  "Loading… Please wait."
+  "正在加载…请稍候。"
+}
+{
+  "Unlock useful tools like Snippets, Host Chaining, Jump Hosts, Agent Forwarding, Env. Variables and HTTP/SOCKS5 Proxies…"
+  "解锁有用的工具，如代码段、主机链接、跳转主机、代理转发、Env。变量和HTTP/SOCKS5代理…"
+}
+{
+  "Try our built in SFTP client with AWS S3 support"
+  "试试我们的内置支持aws3的SFTP客户端"
+}
+{
+  "Try Tabs, Quick Connect and Autocomplete"
+  "尝试Tabs,快速连接和自动完成"
+}
+{
+  "Enhanced Terminal"
+  "增强型终端"
+}
+{
+  "Do you want remove all connections?"
+  "是否删除所有连接?"
+}
+{
+  "Authorization failed, would you like to connect via password?"
+  "授权失败，是否要通过密码连接？"
+}
+{
+  "Do you want to remove selected hosts?"
+  "是否删除选定的主机?"
+}
+{
+  "SSH over Proxy"
+  "通过代理连接SSH"
+}
+{
+  "Access SSH/SFTP through a HTTP or SOCKS5 Proxy"
+  "通过HTTP或SOCKS5代理访问SSH/SFTP"
+}
+{
+  "Proxy"
+  "代理"
+}
+{
+  "New proxy"
+  "新增代理"
+}
+{
+  "Public key (optional)"
+  "公钥（可选）"
+}
+{
+  "Sorry, purchase failed. Please, try again later"
+  "对不起，购买失败。请稍后再试"
+}
+{
+  "Sorry, purchasing failed. Please try again."
+  "对不起，购买失败。请再试一次。"
+}
+{
+  "Quick connect"
+  "快速连接"
+}
+{
+  "Rate and Review"
+  "评分和审核"
+}
+{
+  "Yes, Rate Now"
+  "是的，现在就估价"
+}
+{
+  "Create an account to unlock all Premium features for 14 days. <b>We don’t bill you</b> at the end of your trial."
+  "创建一个帐户来解锁14天内的所有高级功能。<b>我们不会在试用结束时给你开账单。"
+}
+{
+  "Create Account"
+  "创建帐户"
+}
+{
+  "Reload data"
+  "重新加载数据"
+}
+{
+  "Reload Data"
+  "重新加载数据"
+}
+{
+  "'Sync Keys & Identities' is turned off. Please be aware that all keys and identities will be lost after reloading!"
+  "“同步密钥和标识”已关闭。请注意，所有的密钥和认证信息将丢失后重新加载！"
+}
+{
+  "Remote Port (Required)"
+  "远程端口（必需）"
+}
+{
+  "Save Anyway"
+  "还是要保存吗"
+}
+{
+  "Connecting to"
+  "正在连接到"
+}
+{
+  "Enter password"
+  "输入密码"
+}
+{
+  "Requesting Fingerprint"
+  "请求指纹"
+}
+{
+  "Required"
+  "要求的"
+}
+{
+  "We'll send an email with instructions to access your account"
+  "我们将发送一封电子邮件，说明如何访问您的帐户"
+}
+{
+  "Reset password?"
+  "重置密码？"
+}
+{
+  "Root"
+  "根目录"
+}
+{
+  "Save"
+  "保存"
+}
+{
+  "Remember password"
+  "记住密码"
+}
+{
+  "Save and Connect"
+  "保存并连接"
+}
+{
+  "Save Passphrase"
+  "保存密码短语"
+}
+{
+  "Save passphrase"
+  "保存密码短语"
+}
+{
+  "Save Password"
+  "保存密码"
+}
+{
+  "Script"
+  "脚本"
+}
+{
+  "Search SSH connection"
+  "搜索SSH连接"
+}
+{
+  "Search file"
+  "搜索文件"
+}
+{
+  "Searching… Please, wait"
+  "正在搜索…请稍候"
+}
+{
+  "Select all"
+  "全选"
+}
+{
+  "Select charset"
+  "选择字符编码"
+}
+{
+  "Select identity"
+  "选择认证信息"
+}
+{
+  "Send verification e-mail?"
+  "发送验证电子邮件？"
+}
+{
+  "Your password has been changed by the other device.\nPlease provide a new one"
+  "您的密码已被其他设备更改。\n请提供一个新的"
+}
+{
+  "Set Port Forwarding"
+  "设置端口转发"
+}
+{
+  "About"
+  "关于"
+}
+{
+  "Timeout for background connections"
+  "后台连接超时"
+}
+{
+  "Bell settings"
+  "铃声设置"
+}
+{
+  "Vibration and Sound"
+  "振动和声音"
+}
+{
+  "Font & colours"
+  "字体 & 颜色"
+}
+{
+  "Timeout for connecting"
+  "连接超时"
+}
+{
+  "Cursor speed"
+  "光标速度"
+}
+{
+  "Detect OS"
+  "检测操作系统"
+}
+{
+  "Terminal type"
+  "终端类型"
+}
+{
+  "Fingerprint gestures for control of terminal"
+  "控制终端的指纹手势"
+}
+{
+  "More about Termius"
+  "关于更多Termius"
+}
+{
+  "Keep alive max count"
+  "保持活动最大计数"
+}
+{
+  "Keep alive interval"
+  "保持活动间隔"
+}
+{
+  "Rate App"
+  "评分应用程序"
+}
+{
+  "Notification"
+  "通知"
+}
+{
+  "Show connections in the notification bar"
+  "在通知栏中显示连接"
+}
+{
+  "Expanded notifications"
+  "扩展的通知"
+}
+{
+  "Receive notifications"
+  "接收通知"
+}
+{
+  "Account settings"
+  "帐户设置"
+}
+{
+  "Import .histfile"
+  "导入 .histfile"
+}
+{
+  "Required for autocomplete and accessing command history"
+  "自动完成和访问命令历史记录所必需的"
+}
+{
+  "Security & Privacy"
+  "安全与隐私"
+}
+{
+  "Pinch to zoom"
+  "捏拉缩放"
+}
+{
+  "Keep display active when in terminal"
+  "在终端时保持显示激活"
+}
+{
+  "Prevent sleeping"
+  "防止睡眠"
+}
+{
+  "Rate Termius"
+  "评分Termius"
+}
+{
+  "Session"
+  "会话"
+}
+{
+  "Shake"
+  "摇动"
+}
+{
+  "Shake sensitivity"
+  "摇动灵敏度"
+}
+{
+  "Shake binding"
+  "摇动绑定"
+}
+{
+  "Terminal back buffer size"
+  "终端后台缓冲区大小"
+}
+{
+  "Terminal Font"
+  "终端字体"
+}
+{
+  "times"
+  "次"
+}
+{
+  "Volume down key binding"
+  "音量降低键绑定"
+}
+{
+  "Volume down"
+  "音量降低"
+}
+{
+  "Volume keys"
+  "音量键"
+}
+{
+  "Volume up key binding"
+  "音量增大键绑定"
+}
+{
+  "Volume up"
+  "音量增大"
+}
+{
+  "SFTP error on server"
+  "SFTP服务器错误"
+}
+{
+  "Connecting to\n%s"
+  "正在连接到\n%s"
+}
+{
+  "Connecting to\n%s\n(tap here to cancel)"
+  "正在连接到\n%s\n（点击此处取消）"
+}
+{
+  "Are you sure to delete selected containerList?"
+  "确定要删除所选容器列表吗？"
+}
+{
+  "Create new folder"
+  "创建新文件夹"
+}
+{
+  "Rename"
+  "重命名"
+}
+{
+  "This file looks quite big and transferring it through the device as usual might drain your battery. Another option is to run a terminal scp command to do it directly from host to host."
+  "这个文件看起来相当大，像往常一样通过设备传输可能会耗尽电池电量。另一个选择是运行终端scp命令，以便直接从主机到主机执行此操作。"
+}
+{
+  "Transfer To"
+  "传送到"
+}
+{
+  "SFTP Settings"
+  "SFTP 设置"
+}
+{
+  "Share a link \nto Termius"
+  "分享\nTermius"
+}
+{
+  "This will allow your team to access this group and all hosts in it. Adding host to shared group will share that host. Keys, passwords and Identities will NOT be shared."
+  "这将允许您的团队访问此组及其所有主机。将主机添加到共享组将共享该主机。密钥、密码和认证信息将不被共享。"
+}
+{
+  "Enabling sharing will allow your team to access this group and all hosts in it. Adding host to shared group will share that host. Keys, passwords and Identities will NOT be shared."
+  "启用共享将允许您的团队访问此组以及其中的所有主机。将主机添加到共享组将共享该主机。密钥、密码和认证信息将不被共享。"
+}
+{
+  "Sharing failed"
+  "共享失败"
+}
+{
+  "Reorder the panels below to determine which groups of keys appear in your terminal keyboard."
+  "重新排列下面的面板，以确定终端键盘中出现的按键组。"
+}
+{
+  "Restore to default"
+  "恢复到默认值"
+}
+{
+  "Customize keyboard"
+  "自定义键盘"
+}
+{
+  "Show hidden files"
+  "显示隐藏文件"
+}
+{
+  "Show detailed file information"
+  "显示文件详情"
+}
+{
+  "New shell snippet"
+  "新建代码片段"
+}
+{
+  "Implementable snippets of executable code"
+  "可实现的可执行代码片段"
+}
+{
+  "Sort (A-Z)"
+  "排序 (A-Z)"
+}
+{
+  "Sort by Date"
+  "按日期排序"
+}
+{
+  "Sort by Name"
+  "按名字排序"
+}
+{
+  "Sort (size)"
+  "排序 (大小)"
+}
+{
+  "Export SSH keys to intermediate servers"
+  "将SSH密钥导出到中间服务器"
+}
+{
+  "Keychain"
+  "密钥链"
+}
+{
+  "In the meantime, we hope you enjoy our \nfree plan. When you’re ready to reactivate \nTermius Premium, all your premium-specific \nsettings and data will be restored."
+  "同时，我们希望您喜欢我们的\n免费计划。当你准备好重新激活\nTermius高级版，你所有的高级版\n设置和数据将被恢复。"
+}
+{
+  "Your Google Account has a subscription already. Please make the restore."
+  "你的谷歌帐户已经有订阅。请恢复。"
+}
+{
+  "Help & feedback"
+  "帮助"
+}
+{
+  "Sync now"
+  "立即同步"
+}
+{
+  "Incorrect email or password"
+  "邮箱或密码错误"
+}
+{
+  "Secure Cross-device Synchronization"
+  "安全跨设备同步"
+}
+{
+  "With Zero-Knowledge storage (AES-256) and 2FA"
+  "具有零知识存储（AES-256）和2FA"
+}
+{
+  "Hosts, port forwarding rules, snippets and keys (optional) are synced across all devices where Termius is available, Android, iOS or desktop. All data is encrypted on the client-side using AES-256. 2 Factor Authentication adds an extra layer of security. Nobody except you, has access to your data."
+  "主机、端口转发规则、代码段和密钥（可选）在Termius可用的所有设备、Android、iOS或桌面上同步。所有数据在客户端使用AES-256加密。双因素身份验证增加了额外的安全层。除了你，没有人可以访问你的数据。"
+}
+{
+  "Sync keys and identities"
+  "同步密钥和认证信息"
+}
+{
+  "Terminal tabs"
+  "终端标签"
+}
+{
+  "Hop between terminal sessions easily"
+  "轻松切换终端会话"
+}
+{
+  "Work with multiple sessions simultaneously. Terminal Taps are fully adapted for touch screen and make work in the terminal even more effective."
+  "同时处理多个会话。终端抽头完全适应触摸屏，使终端工作更加有效。"
+}
+{
+  "Learn More about the Team plan"
+  "了解团队计划的更多信息"
+}
+{
+  "All Premium Features"
+  "所有高级功能"
+}
+{
+  "Your account has been temporarily locked because of repeated failed login attempts. Please wait 5 minutes and try again."
+  "由于多次登录失败，您的帐户已被临时锁定。请等待5分钟，然后再试一次。"
+}
+{
+  "Terminal Preview"
+  "终端预览"
+}
+{
+  "Active terminal sessions appear here.\nEnter a command to get started."
+  "活动的终端会话出现在这里\n输入命令开始"
+}
+{
+  "FREE FEATURES"
+  "免费功能"
+}
+{
+  "Termius blog \non Medium"
+  "Termius博客\nMedium"
+}
+{
+  "Termius Premium"
+  "Termius 高级版"
+}
+{
+  "Autocomplete in the terminal"
+  "在终端中自动完成"
+}
+{
+  "CLI tool for ~/.ssh/config sync"
+  "用于~/.ssh/config同步的CLI工具"
+}
+{
+  "PREMIUM FEATURES"
+  "高级功能"
+}
+{
+  "Paste a session's password into the terminal"
+  "将会话的密码粘贴到终端"
+}
+{
+  "Password paste"
+  "密码粘贴"
+}
+{
+  "Access SSH/SFTP via an HTTP or SOCKS5 proxy"
+  "通过HTTP或SOCKS5代理访问SSH/SFTP"
+}
+{
+  "With zero-knowledge storage (AES-256) and 2FA"
+  "具有零知识存储（AES-256）和2FA"
+}
+{
+  "Secure Cross-Device Sync"
+  "安全跨设备同步"
+}
+{
+  "Pass environment variables into an SSH session"
+  "将环境变量传递到SSH会话中"
+}
+{
+  "The quickest way to work with multiple connections"
+  "处理多个连接的最快方法"
+}
+{
+  "Home screen widget"
+  "主屏幕小工具"
+}
+{
+  "SUBSCRIBE NOW"
+  "立即订阅"
+}
+{
+  "Themes"
+  "主题"
+}
+{
+  "This email already used"
+  "此电子邮件已被使用"
+}
+{
+  "Sync Keys & Identities"
+  "同步密钥和认证信息"
+}
+{
+  "Remove hosts"
+  "移除主机"
+}
+{
+  "Sorry, connection failed"
+  "抱歉，连接失败"
+}
+{
+  "Auth failed. Wrong host or user name"
+  "验证失败。主机或用户名错误"
+}
+{
+  "Auth failed. Incorrect password"
+  "验证失败。密码错误"
+}
+{
+  "Export failed"
+  "导出失败"
+}
+{
+  "Please create session"
+  "请创建会话"
+}
+{
+  "For correct saving of password or key, please input username"
+  "为了正确保存密码或密钥，请输入用户名"
+}
+{
+  "You don't have established network connection"
+  "您尚未建立网络连接"
+}
+{
+  "The two password fields did not match"
+  "两个密码字段不匹配"
+}
+{
+  "Password reset failed. Please check your email."
+  "密码重置失败。请检查您的电子邮件。"
+}
+{
+  "Your reset link has been sent to your email. Check your inbox."
+  "您的重置链接已发送到您的电子邮件。检查你的收件箱。"
+}
+{
+  "I can not work with your private key. Please convert it to openssh format or use password."
+  "我不能用你的私钥工作。请将其转换为openssh格式或使用密码。"
+}
+{
+  "Your subscription has been updated"
+  "您的订阅已更新"
+}
+{
+  "Please select host"
+  "请选择主机"
+}
+{
+  "Current session has no saved password"
+  "当前会话没有保存的密码"
+}
+{
+  "Please correct Alias field (add some characters or erase spaces)"
+  "请更正别名字段（添加一些字符或删除空格）"
+}
+{
+  "Please provide a private key passphrase"
+  "请提供私钥短语"
+}
+{
+  "Please provide a password of connection"
+  "请提供连接密码"
+}
+{
+  "Please provide a password of"
+  "请提供密码"
+}
+{
+  "Please choose a type of port forwarding"
+  "请选择端口转发类型"
+}
+{
+  "Username cannot be empty"
+  "用户名不能为空"
+}
+{
+  "This rule has already existed"
+  "这个规则已经存在"
+}
+{
+  "This rule is shared and could be modified"
+  "此规则是共享的，可以修改"
+}
+{
+  "Timeout error.\nPlease check your connection state and try again"
+  "超时错误。\n请检查连接状态并重试"
+}
+{
+  "We sent You a verification instructions.\nPlease, check Your email."
+  "我们给你发了验证指令。\n请检查你的电子邮件。"
+}
+{
+  "Today is %s"
+  "今天是 %s"
+}
+{
+  "Your Premium Trial has expired,\nchoose a plan to continue"
+  "你的高级试用期已经过期，\n选择一个计划继续"
+}
+{
+  "Two-factor authentication"
+  "双因素身份验证"
+}
+{
+  "Two-Factor Authentication"
+  "双因素身份验证"
+}
+{
+  "Please enter your Auth Token \n<br><br><a href=https://support.termius.com/knowledgebase/articles/1147783-two-factor-authentication>How do I find my Auth Token?</a>"
+  "请输入您的身份验证令牌\n<br><br><a href=https://support.termius.com/knowledgebase/articles/1147783-two-factor-authentication>如何找到我的授权令牌？在</a>"
+}
+{
+  "Termius Two Factor Authentication is implemented with the help of <a href=https://www.authy.com/learn-more/>Authy</a>. <br><br>Make sure you have Authy activated. <a href=https://support.termius.com/knowledgebase/articles/1147783-two-factor-authentication>Click here for instructions.</a> Use your phone number to login to Authy and retrieve your Authorization Code (Auth Token)."
+  "Termius双因素身份验证是通过<a href=https://www.authy.com/learn-more/>验证</a>。<br><br>确保您已激活Authy。<a href=https://support.termius.com/knowledgebase/articles/1147783-two-factor-authentication>单击此处获取说明。</a>使用您的电话号码登录Authy并检索您的授权码（Auth Token）。"
+}
+{
+  "SFTP, Snippets, Agent Forwarding,\nPort Knocking..."
+  "SFTP，代码片段，代理转发，\n端口敲门。。。"
+}
+{
+  "Unlock Premium Features"
+  "解锁高级功能"
+}
+{
+  "Unshare"
+  "取消共享"
+}
+{
+  "This will disable your team from accessing this group and all hosts in it."
+  "这将使您的团队无法访问此组及其中的所有主机。"
+}
+{
+  "Unshare this group?"
+  "取消共享此组？"
+}
+{
+  "Unsharing failed"
+  "取消共享失败"
+}
+{
+  "Unsupported YubiKey version, make sure this app is up to date!"
+  "不支持的YubiKey版本，请确保此应用程序是最新的！"
+}
+{
+  "Sync is a Premium feature. Stay logged in to\ncontinue using the free plan with no sync, or\nSubscribe to Premium to enable sync.\n\nIf you log out, this unsynced data will be lost:"
+  "同步是一个高级功能。保持登录状态\n继续使用不同步的免费计划，或\n订阅Premium以启用同步。\n如果您注销，此未同步的数据将丢失："
+}
+{
+  "You have Data on this device that isn’t synced to an account. If this Data is personal, you can delete it before signing in to your Team account. \n\nTo keep this Data, you can add it to your Team account, this will mean that you’ll lose access if you lose access to your Team account."
+  "此设备上的数据未同步到帐户。如果此数据是个人数据，则可以在登录团队帐户之前将其删除。\n若要保留此数据，可以将其添加到您的团队帐户，这将意味着如果您失去对团队帐户的访问权限，您将失去访问权限。"
+}
+{
+  "You have unsynced personal data"
+  "你有未同步的个人数据"
+}
+{
+  "Sync is a Premium feature. New data like hosts, groups\nand logs cannot be synced and will be lost if you log out."
+  "同步是一个高级功能。新数据，如主机、组\n日志无法同步，如果您注销，日志将丢失。"
+}
+{
+  "Enable sync"
+  "启用同步"
+}
+{
+  "Log out and delete unsynced data"
+  "注销登录并删除未同步的数据"
+}
+{
+  "Stay logged in, keep data"
+  "保持记录，保留数据"
+}
+{
+  "Subscription expired"
+  "订阅已过期"
+}
+{
+  "This %s will not be synced"
+  "此%s将不会同步"
+}
+{
+  "Updating subscription"
+  "正在更新订阅"
+}
+{
+  "Agent Forwarding"
+  "代理转发"
+}
+{
+  "Use Default"
+  "使用默认"
+}
+{
+  "Use tabs in the terminal"
+  "在终端中使用tabs"
+}
+{
+  "Username"
+  "用户名"
+}
+{
+  "Feature Requests"
+  "功能请求"
+}
+{
+  "Utilities"
+  "实用工具"
+}
+{
+  "Forgot password"
+  "忘记密码"
+}
+{
+  "Knowledge Base"
+  "知识库"
+}
+{
+  "Please enter a valid email address."
+  "请输入有效的电子邮件地址。"
+}
+{
+  "Forgot password email sent"
+  "发送忘记密码电子邮件"
+}
+{
+  "Please enter your email address"
+  "请输入您的电子邮件地址"
+}
+{
+  "There was an error connecting to UserVoice"
+  "连接到UserVoice时出错"
+}
+{
+  "Nevermind"
+  "没有关系"
+}
+{
+  "Please enter your password"
+  "请输入您的密码"
+}
+{
+  "Status: %1$s"
+  "状态: %1$s"
+}
+{
+  "Is this idea helpful?"
+  "这个想法有用吗？"
+}
+{
+  "Would you like to send us a message?"
+  "您想给我们留言吗？"
+}
+{
+  "Your email address"
+  "您的电子邮件地址"
+}
+{
+  "We've got a new name & look!"
+  "我们有了一个新名字&看！"
+}
+{
+  "We've sent instructions to create a Team to"
+  "我们已经发出指示，要创建一个团队"
+}
+{
+  "Creating an account allows you to use Secure Sync, \nSnippets, Fingerprint Unlock, SFTP and more."
+  "创建帐户允许您使用安全同步，\n代码片段、指纹解锁、SFTP等等。"
+}
+{
+  "SSH/Telnet/Mosh • Port Forwarding\nagent forwarding • e2ee Sync • Snippets\nFINGERPRINT • Port Knocking • sftp"
+  "SSH/Telnet/Mosh•端口转发\n代理转发•e2ee同步•片段\n指纹•端口敲击•sftp"
+}
+{
+  "Whats New"
+  "新特性"
+}
+{
+  "Navigate through multiple connections quickly directly from the home screen."
+  "直接从主屏幕快速浏览多个连接。"
+}
+{
+  "Yes"
+  "是的"
+}
+{
+  "Your subscription is invalid"
+  "您的订阅无效"
+}
+{
+  "Copyright (c) 2012-2013 Yubico AB\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n* Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\n* Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS AS IS AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  "版权所有（c）2012-2013 Yubico AB\n版权所有。\n在满足以下条件的前提下，允许以源代码和二进制格式重新分发和使用，无论是否修改：\n*重新分发源代码必须保留上述版权声明、此条件列表和以下免责声明。\n*以二进制形式重新分发必须复制上述版权声明、此条件列表以及随分发提供的文档和/或其他材料中的以下免责声明。\n本软件由版权所有人和贡献者按原样提供，不接受任何明示或暗示的保证，包括但不限于对适销性和适合特定用途的默示保证。在任何情况下，版权所有人或出资人对任何直接、间接、偶然、特殊、惩戒性或后果性损害（包括但不限于采购替代货物或服务；使用、数据或利润损失；或业务中断）概不负责，无论是在合同中，因使用本软件而产生的严格责任或侵权行为（包括疏忽或其他），即使已告知此类损害的可能性。"
+}
+{
+  "Email"
+  "邮箱"
+}
+{
+  "Email me when updates or important features are released"
+  "更新或重要功能发布时给我发邮件"
+}
+{
+  "Log in"
+  "登录"
+}
+{
+  "Email Team Owner"
+  "向团队所有者发送电子邮件"
+}
+{
+  "Email address"
+  "电子邮件地址"
+}
+{
+  "Current version: %s"
+  "当前版本：%s"
+}
+{
+  "Parent Group"
+  "父组"
+}
+{
+  "Looks like this group doesn't\ncontain any hosts. Tap + to add an\nssh, mosh, telnet or local host."
+  "看起来这分组没有\n包含任何主机。点击+添加\nssh、mosh、telnet或本地主机到本分组。"
+}
+{
+  "Looks like you are using an outdated app. Please update it via Google Play.\n\nAll of your data is safely backed up and encrypted, you will be able to access it once you update the app."
+  "看起来你正在使用过时的应用程序。请通过Google Play更新。\n您的所有数据都已安全备份和加密，一旦更新应用程序，您将能够访问这些数据。"
+}
+{
+  "Passphrase repeat"
+  "密码短语重复"
+}
+{
+  "Password has been changed successfully"
+  "密码已成功更改"
+}
+{
+  "Password Paste"
+  "密码粘贴"
+}
+{
+  "Path to local shell/bash"
+  "本地shell/bash的路径"
+}
+{
+  "File Access"
+  "文件存取"
+}
+{
+  "Help"
+  "帮助"
+}
+{
+  "Lock automatically"
+  "自动锁定"
+}
+{
+  "Please try again"
+  "请再试一次"
+}
+{
+  "Port knocking allows you to only expose your SSH port when the correct sequence of TCP and/or UDP packets are received.\n\nThis feature requires you run a port knocking daemon such as knockd on your destination server. More information..."
+  "端口敲门允许您仅在收到正确的TCP和/或UDP数据包序列时公开SSH端口。\n此功能要求您在目标服务器上运行端口敲门守护程序，如knockd。更多信息。。。"
+}
+{
+  "Duration (ms)"
+  "持续时间（ms）"
+}
+{
+  "Edit Port Knocking"
+  "编辑端口敲门"
+}
+{
+  "Get Trial"
+  "获取试用版"
+}
+{
+  "This feature is not ready yet. Currently, we're trying to find out how many users prefer this option. Meanwhile, you can create a trial account here to test the premium features."
+  "此功能尚未准备好。目前，我们正试图找出有多少用户喜欢这个选项。同时，您可以在这里创建一个试用帐户来测试高级功能。"
+}
+{
+  "Thanks!"
+  "谢谢！"
+}
+{
+  "PREMIUM"
+  "高级版"
+}
+{
+  "Background sessions on iOS"
+  "iOS上的后台会话"
+}
+{
+  "PER MONTH, UNLIMITED DEVICES"
+  "每月，无限设备"
+}
+{
+  "Secure synchronisation"
+  "安全同步"
+}
+{
+  "SOCKS Proxy"
+  "SOCKS代理"
+}
+{
+  "Touch ID / Face ID*"
+  "触摸ID/面部ID*"
+}
+{
+  "GitHub Student Developer Pack"
+  "GitHub学生开发包"
+}
+{
+  "Preview Mode"
+  "预览模式"
+}
+{
+  "Preview Mode:"
+  "预览模式："
+}
+{
+  "Pro Version"
+  "专业版"
+}
+{
+  "Exporting keys. Please wait."
+  "正在导出密钥。请稍候。"
+}
+{
+  "Generating keys. Please wait."
+  "正在生成密钥。请稍候。"
+}
+{
+  "Updating key. Please wait."
+  "正在更新密钥。请稍候。"
+}
+{
+  "Exiting… Please wait."
+  "正在退出…请稍候。"
+}
+{
+  "Establishing network connection"
+  "建立网络连接"
+}
+{
+  "Simultaneously run commands on multiple targets"
+  "同时对多个目标运行命令"
+}
+{
+  "Maximum"
+  "最大化"
+}
+{
+  "Navigate home"
+  "转到主屏幕"
+}
+{
+  "Navigate up"
+  "转到上一层级"
+}
+{
+  "More options"
+  "更多选项"
+}
+{
+  "Done"
+  "完成"
+}
+{
+  "See all"
+  "查看全部"
+}
+{
+  "Choose an app"
+  "选择应用"
+}
+{
+  "OFF"
+  "关闭"
+}
+{
+  "ON"
+  "开启"
+}
+{
+  "Clear query"
+  "清除查询"
+}
+{
+  "Search query"
+  "搜索查询"
+}
+{
+  "Submit query"
+  "提交查询"
+}
+{
+  "Voice search"
+  "语音搜索"
+}
+{
+  "Share with"
+  "分享方式"
+}
+{
+  "Share with %s"
+  "通过 %s分享"
+}
+{
+  "Collapse"
+  "收起"
+}
+{
+  "Automatically sync your Hosts, Groups and History to \nthe Desktop app, and other mobile devices you own."
+  "自动将您的主机，组和历史记录同步到\n桌面应用和您拥有的其他移动设备。"
+}
+{
+  "Sync to Desktop"
+  "同步到桌面"
+}
+{
+  "Data sync settings"
+  "数据同步设置"
+}
+{
+  "Add host"
+  "添加主机"
+}
+{
+  "Add Host"
+  "添加主机"
+}
+{
+  "Only Team owner can edit shared items"
+  "只有团队所有者可以编辑共享项目"
+}
+{
+  "The group contains this host already"
+  "该组已包含该主机"
+}
+{
+  "Termius is always ad-free. You are not the product."
+  "Termius始终无广告。您不是产品。"
+}
+{
+  "Supports ECDSA and ed25519 keys as well as chacha20-poly1305 cipher."
+  "支持ECDSA和ed25519密钥以及chacha20-poly1305密码。"
+}
+{
+  "Great for Students, Hobbyists and occasional use."
+  "非常适合学生，业余爱好者和偶尔使用。"
+}
+{
+  "Support for SSH, Mosh, and Telnet sessions."
+  "支持SSH，Mosh和Telnet会话。"
+}
+{
+  "Change Pasword"
+  "修改密码"
+}
+{
+  "Change Pin Code"
+  "修改Pin码"
+}
+{
+  "If you switch to Basic plan, your team members will lose access to their accounts."
+  "如果您切换到基本计划，您的团队成员将无法访问其帐户。"
+}
+{
+  "team members will lose access"
+  "团队成员将失去访问权限"
+}
+{
+  "If you switch to Premium plan, your team members will lose access to their accounts."
+  "如果您切换到高级计划，您的团队成员将无法访问其帐户。"
+}
+{
+  "Switch to the Basic Plan"
+  "切换到基础版"
+}
+{
+  "Team"
+  "团队"
+}
+{
+  "Plans"
+  "计划"
+}
+{
+  "Select host"
+  "选择主机"
+}
+{
+  "Clear All"
+  "全部清除"
+}
+{
+  "The command has been saved in snippets"
+  "该命令已保存在代码前片段中"
+}
+{
+  "Enable"
+  "启用"
+}
+{
+  "%1$s won't work unless you enable Google Play services."
+  "您必须先启用 Google Play 服务，然后才能运行%1$s。"
+}
+{
+  "Enable Google Play services"
+  "启用 Google Play 服务"
+}
+{
+  "Install"
+  "安装"
+}
+{
+  "%1$s won't run without Google Play services, which are missing from your device."
+  "您的设备没有安装 Google Play 服务，因此无法运行%1$s。"
+}
+{
+  "Get Google Play services"
+  "获取 Google Play 服务"
+}
+{
+  "Google Play services availability"
+  "Google Play 服务的适用范围"
+}
+{
+  "Google Play services error"
+  "Google Play服务出错"
+}
+{
+  "%1$s is having trouble with Google Play services. Please try again."
+  "%1$s无法访问 Google Play 服务，请重试。"
+}
+{
+  "%1$s won't run without Google Play services, which are not supported by your device."
+  "您的设备不支持 Google Play 服务，因此无法运行%1$s。"
+}
+{
+  "Update"
+  "更新"
+}
+{
+  "%1$s won't run unless you update Google Play services."
+  "您必须先更新 Google Play 服务，然后才能运行%1$s。"
+}
+{
+  "Update Google Play services"
+  "更新 Google Play 服务"
+}
+{
+  "%1$s won't run without Google Play services, which are currently updating."
+  "Google Play 服务当前正在更新，因此您无法运行%1$s。"
+}
+{
+  "New version of Google Play services needed. It will update itself shortly."
+  "必须使用新版 Google Play 服务。该服务很快就会自行更新。"
+}
+{
+  "Open on phone"
+  "在手机上打开"
+}
+{
+  "Sign in"
+  "登录"
+}
+{
+  "Sign in with Google"
+  "使用 Google 帐号登录"
+}
+{
+  "Select All"
+  "全选"
+}
+{
+  "Could not retrieve the list of your shared groups."
+  "无法检索您的共享组列表。"
+}
+{
+  "Could not retrieve the list of your team members."
+  "无法检索您的团队成员列表。"
+}
+{
+  "Create a free account to sync your data to all devices"
+  "创建一个免费帐户将您的数据同步到所有设备"
+}
+{
+  "Create a New Team"
+  "建立一个新团队"
+}
+{
+  "Create account"
+  "创建帐号"
+}
+{
+  "Creating an account allows you to try Desktop Sync,\nSnippets, Fingerprint Unlock, SFTP and more."
+  "创建帐户后，您可以尝试桌面同步，\n代码片段，指纹解锁，SFTP等。"
+}
+{
+  "New SSH host"
+  "新建SSH主机"
+}
+{
+  "Create new tag"
+  "建立新标签"
+}
+{
+  "New telnet host"
+  "新建telnet主机"
+}
+{
+  "Create snippet"
+  "创建代码片段"
+}
+{
+  "At least one email is required."
+  "至少需要一封电子邮件。"
+}
+{
+  "Please enter an email."
+  "请输入电子邮件。"
+}
+{
+  "Allow your team to access a shared group and all hosts in it from any device they have on hand. Keys and passwords won't be synced."
+  "允许您的团队从他们手边的任何设备访问共享组及其中的所有主机。密钥和密码不会同步。"
+}
+{
+  "Shared Data"
+  "共享资料"
+}
+{
+  "+ add another member"
+  "+添加其他成员"
+}
+{
+  "Send Invites"
+  "发送邀请"
+}
+{
+  "Enter emails of your team members:"
+  "输入您的团队成员的电子邮件："
+}
+{
+  "Invite members"
+  "邀请成员"
+}
+{
+  "Create a Team"
+  "建立团队"
+}
+{
+  "Team name"
+  "团队名称"
+}
+{
+  "Enter the name of your team:"
+  "输入您的团队名称："
+}
+{
+  "Edit Emails"
+  "编辑电子邮件"
+}
+{
+  "The following email addresses are invalid:"
+  "以下电子邮件地址无效："
+}
+{
+  "The invites to your team members have been sent."
+  "团队成员的邀请已发送。"
+}
+{
+  "Please make sure that your internet connection is active to proceed."
+  "请确保您的互联网连接处于活动状态才能继续。"
+}
+{
+  "Looks like there was an error with your request. Please try again."
+  "您的要求似乎有误。请再试一遍。"
+}
+{
+  "Sending invites"
+  "发送邀请"
+}
+{
+  "Termius for Teams"
+  "团队术语"
+}
+{
+  "Manage access to your data for team members as well as centralized billing."
+  "管理团队成员对您的数据的访问以及集中的帐单。"
+}
+{
+  "Team Management Dashboard"
+  "团队管理仪表板"
+}
+{
+  "Help your team keeping 99.99% uptime with access to all Premium Features."
+  "访问所有高级功能，帮助您的团队将正常运行时间保持在99.99％。"
+}
+{
+  "Premium Features For Each Team Member"
+  "每个团队成员的高级功能"
+}
+{
+  "Team name is required"
+  "团队名称为必填项"
+}
+{
+  "Date"
+  "日期"
+}
+{
+  "Expires in %d days"
+  "在%d天后过期"
+}
+{
+  "%d days before renewal"
+  "续签前%d天"
+}
+{
+  "Add another word or two. Uncommon words are better."
+  "再加上一两个字。不常见的词更好。"
+}
+{
+  "Send"
+  "发送"
+}
+{
+  "Groups"
+  "分组"
+}
+{
+  "Hosts in host chains don't belong to the %1$s group"
+  "主机链中的主机不属于%1$s组"
+}
+{
+  "Trial expired.\nPremium and Team features were disabled"
+  "试用期满。\n高级和团队功能已禁用"
+}
+{
+  "Trial expired.\nPremium features were disabled"
+  "试用期满。\n高级功能已禁用"
+}
+{
+  "\"%1$s\" copied to clipboard."
+  "\"%1$s\" 已复制到剪切板."
+}
+{
+  "$59.88 / Year"
+  "$59.88 / 每年"
+}
+{
+  "$83.88 / Year"
+  "$83.88 / 每年"
+}
+{
+  "Add a payment method to restore access to your Termius Team subscription.\n\nThe data of your team inside Termius is safely backed up and encrypted, access for you and your Team will be restored once you renew your Termius plan."
+  "添加一种付款方式以恢复对Termius Team订阅的访问权限。\n\nTermius内部团队的数据已安全备份和加密，续订Termius计划后将恢复对您和团队的访问。"
+}
+{
+  "Billing API version is not supported for the type requested"
+  "请求的类型不支持Billing API版本"
+}
+{
+  "Centralized Data Ownership"
+  "集中数据所有权"
+}
+{
+  "Consolidated Billing"
+  "综合帐单"
+}
+{
+  "Enable Pattern Lock to prevent others from accessing data on your device."
+  "启用模式锁定，以防止其他人访问您设备上的数据。"
+}
+{
+  "Fetching account details"
+  "获取帐户详细信息"
+}
+{
+  "For large and medium sized organizations where consolidated billing and permissioned data ownership are of key importance, Termius for Teams has everything you need."
+  "对于合并计费和允许的数据所有权至关重要的大中型组织，Termius for Teams提供了您所需的一切。"
+}
+{
+  "I'm responsible for billing, let me create a team directly"
+  "我负责计费，让我直接创建一个团队"
+}
+{
+  "If you’re a serious Pro or Power User, Premium pays for itself. It’s the best plan for serious professionals who value their time and sanity. Unlock every single Premium Feature and Sync all your devices with end-to-end encryption."
+  "如果您是认真的Pro或Power User，Premium会自己承担费用。对于重视时间和理智的专业人士来说，这是最好的计划。解锁每个高级功能，并使用端到端加密同步所有设备。"
+}
+{
+  "Manage Billing Information"
+  "管理帐单信息"
+}
+{
+  "Ownership"
+  "所有权"
+}
+{
+  "PER TEAM MEMBER, PER YEAR"
+  "每年每个团队成员"
+}
+{
+  "Pay Monthly or Yearly"
+  "每月或每年付款"
+}
+{
+  "Store frequently used shell scripts as snippets. Snippets will be available on all of your devices and can be executed across SSH sessions or attached to a host as a startup script."
+  "将常用的shell脚本存储为片段。您可以在所有设备上使用代码段，并且可以在SSH会话中执行代码段，也可以将其作为启动脚本附加到主机上。"
+}
+{
+  "This script below will be executed on the host %s. Feel free to modify the code or the arguments to fit it into your needs. The argument $3 is the public key value in OpenSSH format and not editable."
+  "下面的脚本将在主机%s上执行。随意修改代码或参数以使其适合您的需求。参数$3是OpenSSH格式的公钥值，不可编辑。"
+}
+{
+  "Use pattern unlock and fingerprint \nauthentication to protect the data on \nyour devices. Access servers protected \nby port knocking."
+  "使用图案解锁和指纹\n身份验证以保护数据\n您的设备。访问服务器受保护\n通过港口敲门。"
+}
+{
+  "Your device does not support NFC. You can connect your Yubikey via USB"
+  "您的设备不支持NFC。您可以通过USB连接Yubikey"
+}
+{
+  "team is safely backed up and encrypted, and you can access it as soon as you renew your Termius for Teams plan.\n\nPlease add billing information to restore access to your Termius for Teams plan."
+  "团队已安全备份和加密，您可以在续订Termius for Teams计划后立即访问。\n\n请添加结算信息，以恢复对Termius for Teams计划的访问权限。"
+}
+{
+  "Automatically lock"
+  "自动锁定"
+}
+{
+  "Bill Monthly"
+  "每月帐单"
+}
+{
+  "Bill Yearly"
+  "每年帐单"
+}
+{
+  "PIN lock"
+  "PIN锁"
+}
+{
+  "Pattern lock"
+  "图案锁"
+}
+{
+  "Blocked. You will not be able to take\nscreenshots of screens that contain\nsensitive data."
+  "已禁止。您将无法截屏\n包含以下内容的屏幕截图\n敏感数据。"
+}
+{
+  "Screenshots & screen recording"
+  "屏幕截图和屏幕录像"
+}
+{
+  "%d minutes before expiry"
+  "到期前 %d 分钟"
+}
+{
+  "%s seconds"
+  "%s 秒"
+}
+{
+  "1 minute"
+  "1 分钟"
+}
+{
+  "1 minute before expiry"
+  "到期前 1 分钟"
+}
+{
+  "1 minutes"
+  "1 分钟"
+}
+{
+  "10 minutes"
+  "10 分钟"
+}
+{
+  "15 minutes"
+  "15 分钟"
+}
+{
+  "2 minutes"
+  "2 分钟"
+}
+{
+  "30 minutes"
+  "30 分钟"
+}
+{
+  "30 seconds"
+  "30 秒"
+}
+{
+  "5 minutes"
+  "5 分钟"
+}
+{
+  "Enter your password to change this security setting. You will have <b>10 minutes</b> to make the changes."
+  "输入密码以更改此安全设置。您将有<b> 10分钟</ b>进行更改。"
+}
+{
+  "Invalid code. Resend available in %1$d seconds."
+  "无效的代码。可在%1$d秒内重新发送。"
+}
+{
+  "Request throttled. Expected available in %1$d seconds."
+  "请求被限制。预计在%1$d秒内可用。"
+}
+{
+  "We've sent the code to your email. Resend available in %1$d seconds."
+  "我们已将代码发送到您的电子邮件中。可在%1$d秒内重新发送。"
+}
+{
+  "seconds"
+  "秒"
+}
+{
+  "%d hours before expiry"
+  "到期前 %d 小时"
+}
+{
+  "%d hours before renewal"
+  "续约前 %d 小时"
+}
+{
+  "10 hours"
+  "10 小时"
+}
+{
+  "12 hours"
+  "12 小时"
+}
+{
+  "2 hours"
+  "2 小时"
+}
+{
+  "3 hours"
+  "3 小时"
+}
+{
+  "5 hours"
+  "5 小时"
+}
+{
+  "8 hours"
+  "8 小时"
+}
+{
+  "Key Manager"
+  "Key 管理"
+}
+{
+  "Manage AWS Credentials"
+  "管理AWS凭证"
+}
+{
+  "Manage Plan"
+  "管理计划"
+}
+{
+  "Manage Team"
+  "管理团队"
+}
+{
+  "Manage…"
+  "管理…"
+}
+{
+  "Tags Manager"
+  "Tag 管理器"
+}
+{
+  "Expired"
+  "已过期"
+}
+{
+  "Restore"
+  "恢复"
+}
+{
+  "Restore previous selection (%1$d host%2$s)"
+  "恢复先前的选择(%1$d 主机 %2$s)"
+}
+{
+  "Restore subscription"
+  "恢复订阅"
+}
+{
+  "Log In"
+  "登录"
+}
+{
+  "Log Out"
+  "注销登录"
+}
+{
+  "Enter Password"
+  "输入密码"
+}
+{
+  "...\nPer Month"
+  "...\n每月"
+}
+{
+  "...\nPer Year"
+  "...\n每年"
+}
+{
+  "1 hour"
+  "1 小时"
+}
+{
+  "1 hour before expiry"
+  "到期前 1 小时"
+}
+{
+  "1 hour before renewal"
+  "续约前 1 小时"
+}
+{
+  "1-Year Subscription for <b>%1$s</b>"
+  "订阅一年<b>%1$s </ b>"
+}
+{
+  "12 people want this"
+  "12个人想要这个"
+}
+{
+  "14 Day Refund Policy, No Questions Asked"
+  "14天退款政策，无理由退款"
+}
+{
+  "Access to local storage denied"
+  "拒绝访问本地存储"
+}
+{
+  "%s lines"
+  "%s 行"
+}
+{
+  "lines"
+  "行"
+}
+{
+  "Allow screenshots & screen recording for"
+  "允许截图和屏幕录像"
+}
+{
+  "Allowed until %s"
+  "允许到 %s"
+}
+{
+  "Max file size for operations via device"
+  "通过设备进行操作的最大文件大小"
+}
+{
+  "Learn More about Termius for Teams"
+  "进一步了解Termius for Teams"
+}
+{
+  "Learn more"
+  "了解更多"
+}
+{
+  "Learn more."
+  "了解更多."
+}
+{
+  "Learn more..."
+  "了解更多..."
+}
+{
+  "We've updated our data encryption algorithm to make it even more secure. Learn more about new encryption here."
+  "我们更新了数据加密算法以使其更加安全。在此处了解有关新加密的更多信息。"
+}
+{
+  "Edit Variable"
+  "编辑变量"
+}
+{
+  "Enable New Encryption"
+  "启用新加密"
+}
+{
+  "Hotkey: New Snippet"
+  "热键：新代码段"
+}
+{
+  "Hotkey: New host"
+  "热键：新主机"
+}
+{
+  "New Encryption"
+  "新加密"
+}
+{
+  "New Folder"
+  "新建文件夹"
+}
+{
+  "New Item"
+  "新项"
+}
+{
+  "New Password"
+  "新密码"
+}
+{
+  "New SSH Host"
+  "新的SSH主机"
+}
+{
+  "New Telnet Host"
+  "新的Telnet主机"
+}
+{
+  "New Variable"
+  "新变量"
+}
+{
+  "New comment"
+  "新评论"
+}
+{
+  "New connection"
+  "新连接"
+}
+{
+  "New notification"
+  "新通知"
+}
+{
+  "New tag name"
+  "新标签名称"
+}
+{
+  "Value"
+  "值"
+}
+{
+  "Value is out of range (value should be between %1$d and %2$d)"
+  "值超出范围(值应在 %1$d 和 %2$d 之间)"
+}
+{
+  "Variable"
+  "变量"
+}
+{
+  "Local Path"
+  "本地路径"
+}
+{
+  "Local Terminal"
+  "本地终端"
+}
+{
+  "Please check local port. Local port can't be empty."
+  "请检查本地端口，本地端口不能为空。"
+}
+{
+  "Sync Hosts, Groups, Snippets and more across\nsigned in devices. End to end encrypted\n(XSalsa20) with zero-knowledge cloud storage."
+  "跨主机同步主机，组，片段等\n登录设备。端到端加密\n（XSalsa20）和零知识云存储。"
+}
+{
+  "Clone"
+  "克隆连接"
+}
+{
+  "Clone current tab"
+  "克隆当前选项卡"
+}
+{
+  "HotKey: Clone connection"
+  "热键：克隆连接"
+}
+{
+  "After enabling the new encryption, latest Termius version will be required."
+  "启用新的加密后，将需要最新的Termius版本。"
+}
+{
+  "After enabling the new encryption, the latest Termius version will be required."
+  "启用新的加密后，将需要最新的Termius版本。"
+}
+{
+  "After logout all your data will be removed from this device."
+  "注销后，所有数据将从此设备中删除。"
+}
+{
+  "After you run a command, \nit’ll appear in this log."
+  "运行命令后，\n它会出现在此日志中。"
+}
+{
+  "Logout"
+  "注销登录"
+}
+{
+  "reset"
+  "重置"
+}
